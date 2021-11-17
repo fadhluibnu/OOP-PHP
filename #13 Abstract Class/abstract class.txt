@@ -1,0 +1,6 @@
+- sebuha class yang tidak dapat di instasiasi (tidak bisa bikin objek)
+- disebut kelas 'abstrak'
+- mendefinisikan interface kelas turunananya
+- berperan sebagai 'kerangka dasar' untuk class turunananya
+- memiliki minimal 1 method abstrak
+- abstrak memiliki sangkut paut dengan inheritance

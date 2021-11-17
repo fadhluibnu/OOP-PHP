@@ -1,0 +1,11 @@
+- suatu konsep digunakan untuk mengatur akses dari property dan method pada sebuah objek
+- ada 3 keyword visibility: public, protected, dan private
+
+--public (dapat digunakan di mana saja, bahkan diluar class)
+--protected(hanya dapat digunakan di dalam sebuah kelas beserta turunanya)
+--private(hanya dapat digunakan di dalam kelas tertentu saja)
+
+Kenapa harus visibility
+- hanya memperhatikan aspek dari class yang dibutuhkan oleh Client
+- menentukan kebutuhan yang jelas
+- memberikan kendali pada kode unutk menghindari bug

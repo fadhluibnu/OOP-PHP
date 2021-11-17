@@ -1,0 +1,15 @@
+- mengubungkan 2 class atau lebih sehingga akan terdapat parent & child
+- child class, mewarisi semua property dan method dari parent-nya (yang visible)
+- child class, memperluas (extend) fungsionalitas dari parent nya
+
+*** KENAPA KITA BUTUH INHERITANCE ***
+
+
+==== Cara membuat child ====
+class Mobil{
+    ...
+}
+
+class MobilSport extends Mobil{
+    ...
+}

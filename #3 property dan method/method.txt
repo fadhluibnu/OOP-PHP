@@ -1,0 +1,3 @@
+- merepresentasikan perilaku dari sebuah objek
+- function yang ada di dalam objek
+- sama seperti function di dalam php, dengan ditambahkan visibility di depanya

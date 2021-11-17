@@ -1,0 +1,1 @@
+sebuah method spesial / khusus karena method ini otomatis dijalankan 

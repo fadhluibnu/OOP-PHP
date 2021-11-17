@@ -1,0 +1,23 @@
+- kelas abstrak yang sama sekali tidak memiliki implementasi
+- murni merupakan template untuk kelas turunananya
+- tidak boleh memiliki property, hanya deklarasi method saja
+- semua method harus dideklarasikan public
+- boleh dideklarasikan __connstruct()
+- satu kelas boleh mengiplementasikan banyak interface
+- dengan menggunakan type-hinting dapat melakuakn 'dependency injection'
+- pada akhirnya akan mencapai Polymorphism
+
+cara membuat
+interface Buah{
+
+}
+
+cara implementasi kelas turunananya
+class Apel implements Buah{
+    semua isi class interface harus ada
+}
+
+cara implementasi dua kelas
+class Apel implements Buah, Benda{
+    semua isi class interface Buah, dan Benda harus ada di sini;
+}

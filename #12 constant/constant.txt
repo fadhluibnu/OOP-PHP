@@ -1,0 +1,16 @@
+- sebuah identifier untuk meyimpan nilai
+- nilainya tidak dapat berubah
+
+cara membuat
+define()
+const
+
+Magic Constanta
+* __LINE__ (menampilkan baris dimana line di tulis)
+* __FILE__ (memberi tahu alamat file yang bersangkutan)
+* __DIR__ (mengetahui direktori file)
+* __FUNCTION__ (untuk mengetahui sedang pakai function apa)
+* __CLASS__
+* __TRAIT__
+* __METHOD__
+* __NAMESPACE__

@@ -1,0 +1,8 @@
+- instance yang didefinisikan oelh class
+- banyak objek dapat dibuat menggunakan satu class
+- objek dibuat dengan menggunakan keyword new
+
+Contoh
+
+$a = new coba();
+$b = new coba();

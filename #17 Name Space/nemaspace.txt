@@ -1,0 +1,6 @@
+sebuah cara unutk mengelompokkan program kita se dalam sebuah package tersendiri bisa disebut encapsulasi
+
+kenapa?
+php tidak mengijinkan kita unutk membuat class yang sama, ini akan terjadi saat kita bekerja tim. 
+
+Name space akan membedakan class kita dengan orang lain

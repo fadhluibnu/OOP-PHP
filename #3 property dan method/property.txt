@@ -1,0 +1,3 @@
+- merepresentasikan data / keadaan dari sebuah objek
+- variable yang ada di dalam object (memeber variable)
+- sama seperti variable di dalam php, ditambahkan dengan visibility di depanya

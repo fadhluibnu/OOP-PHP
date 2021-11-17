@@ -1,0 +1,5 @@
+- member yang terkai dengan class, bukan dengan objek
+- nilai static akan selalu tetap meskipun objek di - instasiasi berulang kali
+- membuat kode menjadi prosedural
+- biasanya digunakan untuk membuat fungsi bantuan/helper
+- biasa digunakan di class utility pada framework

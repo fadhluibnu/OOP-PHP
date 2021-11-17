@@ -1,0 +1,9 @@
+adalah blueprint untuk membuat instance dari objek
+- mendefinisikan objek
+- menyimpan data dan perilaklu yang disebut dengan property dan method
+
+***Cara membuat Class****
+class {
+
+}
+- aturan class sama seperti aturan variable
